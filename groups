@@ -1,4 +1,5 @@
 # UUID                                                                     	Group Name
 #
+2c7255a7de112465723af593015062b546547c60                                   	saml/acumos-gerrit-training-committers
 42f0c83244389e408b42fa668348002012ecba46                                   	GitHub Replication
 ldap:cn=acumos-gerrit-training-committers,ou=Groups,dc=freestandards,dc=org	ldap/acumos-gerrit-training-committers
